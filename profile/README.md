@@ -4,7 +4,7 @@
 
 ### Agence digitale & services drone
 
-**Sites web | E-commerce | Drone | Maintenance**
+**Sites web | E-commerce | Maintenance**
 
 [![Site web](https://img.shields.io/badge/404notfood.fr-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://404notfood.fr)
 [![Contact](https://img.shields.io/badge/Demander_un_devis-2563EB?style=for-the-badge&logo=mail.ru&logoColor=white)](https://404notfood.fr/devis)
